@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("paste_link_here"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0x109l/rscriptsPBLoader/refs/heads/main/BasketBallLegends/obf.lua"))
