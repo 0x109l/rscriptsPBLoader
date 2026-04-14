@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0x109l/rscriptsPBLoader/refs/heads/main/BasketBallLegends/obf.lua"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0x109l/rscriptsPBLoader/refs/heads/main/BasketBallLegends/obf.lua"))()
